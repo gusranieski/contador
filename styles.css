@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #adbac7;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+button {
+    cursor: pointer;
+    padding: 5px 20px;
+    margin: 5px;
+}
